@@ -1,4 +1,6 @@
-# Ejercicio 1: Vamos a crear un nuevo repositorio llamado prueba2_tu_nombre. Ten en cuenta lo siguiente: 
+# Ejercicio 1
+
+##Vamos a crear un nuevo repositorio llamado prueba2_tu_nombre. Ten en cuenta lo siguiente: 
 
 ## En esta ocasión, crea primero el repositorio local en Windows (usando git init). El repositorio debe contener, al menos, dos archivos de texto: archivo1.txt y archivo2.txt. El contenido de ambos archivos es libre. 
 
@@ -49,4 +51,5 @@ Creamos (echo >) y modificamos (echo >>) los archivos y los autorizamos:
 Entramos en la carpeta del repositorio y escribimos git pull
 
 ![](img/MD1-9.png)
+
 
