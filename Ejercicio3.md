@@ -71,3 +71,4 @@ Ahora sincronizare la rama “segunda”
 ![](img/MD3-10.png)
 
 ![](img/MD3-11.png)
+
