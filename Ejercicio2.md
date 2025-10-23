@@ -42,5 +42,5 @@ console.log(suma(5, 7));
 |------------|------|-------------|
 | Ana        | 25   | Madrid      |
 | Carlos     | 30   | Barcelona   |
-
 | Beatriz    | 28   | Valencia    |
+
