@@ -1,7 +1,8 @@
 # Sitio web de Implantación de aplicaciones web
 
-**Nombre:** tu_nombre_y_apellidos  
-**Curso:** 2024/25  
+## Erick Daniel Encarnacion Correa
+
+### Curso: 2024/25  
 
 ## Unidad 1: Preparación del entorno de desarrollo y servidores de aplicaciones web
 
