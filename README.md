@@ -7,7 +7,7 @@
 
 ### Ejercicios
 
-- [Ejercicio 1](unidad1/ejercicio1.md)  
-- [Ejercicio 2](unidad1/ejercicio2.md)  
-- [Ejercicio 3](unidad1/ejercicio3.md)  
-- [Ejercicio 4](unidad1/ejercicio4.md)
+- [Ejercicio 1](ejercicio1.md)  
+- [Ejercicio 2](ejercicio2.md)  
+- [Ejercicio 3](ejercicio3.md)  
+- [Ejercicio 4](ejercicio4.md)
