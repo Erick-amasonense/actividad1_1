@@ -1,9 +1,6 @@
 # Ejercicio 2: Introducción a Markdown
 
-## Qué vas a aprender
-En este ejercicio aprenderás la **sintaxis básica** de Markdown para estructurar la información en tus documentos.  
-También comprobarás que se puede convertir Markdown a HTML de manera sencilla.
-
+En este ejercicio aprendo la **sintaxis básica** de Markdown para estructurar y documentar la información en los repositorios  
 
 ### Párrafo con formato
 Este párrafo incluye **palabras en negrita**, *palabras en cursiva*, y `palabras en código`.
@@ -45,4 +42,5 @@ console.log(suma(5, 7));
 |------------|------|-------------|
 | Ana        | 25   | Madrid      |
 | Carlos     | 30   | Barcelona   |
+
 | Beatriz    | 28   | Valencia    |
